@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "demo-flask-zapp",
+        "runtime": "python3.10",
+        "s3_bucket": "zappa-h70jp9v55"
+    }
+}
