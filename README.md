@@ -119,4 +119,4 @@ Artículo completo en [Medium](https://medium.com/@brendagalicia/c%C3%B3mo-despl
 
 ## 🎬 Demo
 
-Video completo de la demo en [YouTube](https://youtu.be/AssGcpiRmA0 "Ver detalles.").
+Video completo de la demo en [YouTube](https://youtu.be/d-2RiELu-Vs "Ver detalles.").
